@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-css-flexbox-pwt5J0fUK)
+- Live Site URL: [Add live site URL here](https://gustcodetheone.github.io/statsPreviewCardComponent/)
 
 ## My process
 
